@@ -1,2 +1,2 @@
-My First readme >README  md.MD
+My First readme >README.md
 readme up to date github.com
